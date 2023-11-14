@@ -26,14 +26,14 @@ export default function RootLayout({
         <AnalyticsWrapper />
         <footer className="flex justify-center gap-6 py-12">
           <Link
-            href="https://twitter.com/rodgetech"
+            href="https://twitter.com/iamdavelevine"
             target="_blank"
             className="text-neutral-600"
           >
             <FaTwitter fontSize={26} />
           </Link>
           <Link
-            href="https://github.com/rodgetech/cron-ai"
+            href="https://github.com/davelevine/cron-ai"
             target="_blank"
             className="text-neutral-600"
           >
