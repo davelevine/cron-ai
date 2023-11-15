@@ -28,14 +28,14 @@ export default function RootLayout({
           <Link
             href="https://twitter.com/iamdavelevine"
             target="_blank"
-            className="text-neutral-600"
+            className="text-neutral-500"
           >
             <FaTwitter fontSize={26} />
           </Link>
           <Link
             href="https://github.com/davelevine/cron-ai"
             target="_blank"
-            className="text-neutral-600"
+            className="text-neutral-500"
           >
             <FaGithub fontSize={26} />
           </Link>
