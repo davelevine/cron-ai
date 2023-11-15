@@ -1,3 +1,7 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* Import the Dracula theme */
+@import 'dracula-prism/dist/css/dracula-prism.css';
+
+/* Include Tailwind CSS directives within the context of PostCSS or other processors */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
